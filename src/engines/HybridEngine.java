@@ -2,6 +2,7 @@ package engines;
 
 public class HybridEngine extends Engine{
 	String typeHybridEngine;
+	
 	public HybridEngine(String typeHybridEngine, int rotationSpeed, int maxPower, int maxTorque) {
 		this.typeOfEngine = "Hybrid";
 		this.typeHybridEngine = typeHybridEngine;

@@ -25,7 +25,7 @@ public class ICEV extends Vehicle{
 		System.out.println("\tFuel: " + "\n\t\tType: " + this.typeOfFuel
 				+ "\n\t\tConsumption: " + this.fuelConsumption + " L/100km");
 		System.out.println("\tCO2 emission weight: " + this.CO2EmissionWeight + " g/km");
-		manufacture.printCharacteristics();
+		manufacture.printManufactureAttributes();
 		engine.printEngineInfo();
 	}
 }

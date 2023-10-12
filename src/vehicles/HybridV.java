@@ -4,6 +4,7 @@ import engines.HybridEngine;
 public class HybridV extends Vehicle{
 	public Manufacture manufacture;
 	public HybridEngine engine;
+	
 	String typeOfHybrid;
 	String typeOfBattery;
 	double combinedPowerConsumption; 
@@ -27,7 +28,7 @@ public class HybridV extends Vehicle{
 		System.out.println("\tType of Hybrid: " + this.typeOfHybrid);
 		System.out.println("\tCombined Power Consumption: " + this.combinedPowerConsumption + " kW");
 		System.out.println("\tBattery type: " + this.typeOfBattery);
-		manufacture.printCharacteristics();
+		manufacture.printManufactureAttributes();
 		engine.printEngineInfo();
 	}
 }

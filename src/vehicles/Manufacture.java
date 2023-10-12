@@ -44,7 +44,7 @@ public class Manufacture {
 	public void setPrice(int price) {
 		this.price = price;
 	}
-	public void printCharacteristics() {
+	public void printManufactureAttributes() {
 		System.out.println("\tManufacture: " + "\n\t\tBrand: " + this.brand
 				+ "\n\t\tModel: " + this.model 
 				+ "\n\t\tManufacture year: " + this.yearOfManufacture

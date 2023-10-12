@@ -28,7 +28,7 @@ public class BEV extends Vehicle{
 				+ "\n\t\tType: " + this.typeOfBattery);
 		System.out.println("\t" + "Charging cables: \n\t\tAC: " + this.chargingCableAC 
 				+ "\n\t\tDC: " + this.chargingCableDC);
-		manufacture.printCharacteristics();
+		manufacture.printManufactureAttributes();
 		motor.printEngineInfo();
 	}
 }

@@ -1,0 +1,82 @@
+Vehicle information:
+	Type: BEV
+	Travelling distance: 267 miles
+	Refilling time (Fast charge: 150kW): 20 min
+	Battery: 
+		Capacity: 57.5 kWh
+		Type: Lithium-Iron-Phosphate
+	Charging cables: 
+		AC: Tesla
+		DC: Tesla
+	Manufacture: 
+		Brand: Tesla
+		Model: Model 3
+		Manufacture year: 2018
+		Price: 45667 euros
+	Engine information: 
+		Type: Electric motors
+		Rotation speed: 5000 rpm
+		Motor type: 3D1
+		Max Power: 202 kW
+		Max Torque: 404 N.m
+		Votage: 320 V
+Vehicle information:
+	Type: BEV
+	Travelling distance: 237 miles
+	Refilling time (Fast charge: 150kW): 25 min
+	Battery: 
+		Capacity: 59.9 kWh
+		Type: Lithium-Iron-Phosphate
+	Charging cables: 
+		AC: Type 2
+		DC: CCS2
+	Manufacture: 
+		Brand: Vinfast
+		Model: VF6 Plus
+		Manufacture year: 2020
+		Price: 42750 euros
+	Engine information: 
+		Type: Electric motors
+		Rotation speed: 3500 rpm
+		Motor type: null
+		Max Power: 150 kW
+		Max Torque: 310 N.m
+		Votage: 320 V
+Vehicle information:
+	Type: ICEV
+	Travelling distance: 870 miles
+	Refilling time: 5 min
+	Fuel: 
+		Type: petrol
+		Consumption: 6.2 L/100km
+	CO2 emission weight: 140.0 g/km
+	Manufacture: 
+		Brand: Mercedes
+		Model: GLA 200
+		Manufacture year: 2015
+		Price: 16490 euros
+	Engine information: 
+		Type: Combustion
+		Rotation speed: 5500 rpm
+		Engine name: M282
+		Engine size: 1332 cc
+		Max Power: 120 kW
+		Max Torque: 250 N.m
+Vehicle information:
+	Type: HybridV
+	Travelling distance: 600 miles
+	Refilling time: 5 min
+	Type of Hybrid: Fullhybrid
+	Combined Power Consumption: 16.4 kW
+	Battery type: Lithium-ion
+	Manufacture: 
+		Brand: Toyota
+		Model: Prius
+		Manufacture year: 2023
+		Price: 45290 euros
+	Engine information: 
+		Type: Hybrid
+		Rotation speed: 5200 rpm
+		Hybrid engine type: 2ZR-FXE Petrol Engine
+		Max Power: 72 kW
+		Max Torque: 190 Nm

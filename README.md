@@ -20,7 +20,10 @@ project short description with indication of the development environment.
 
 ## Solution: 
 - **Development Environment:** Eclipse IDE for Java Developers - 2023-09 
-- Result (./result/result_hometask3): Information hierarchy for each vehicle:
+- Print output methods for: 
+  - Engine: printEngineInfo()
+  - Manufacture: printManufactureAttributes()
+- Result (./result/result_hometask3 - a copy from console): Information hierarchy for each vehicle:
   - Info about Vehicle attributes.
   - Info about Vehicle subclass attributes.
   - Info about Manufacture attributes.
